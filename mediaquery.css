@@ -4,6 +4,7 @@
     }
     *{
         overflow-x: hidden;
+        display:none;
     }
     .hero-sec{
         background-position: center;
